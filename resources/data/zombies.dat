@@ -1,0 +1,27 @@
+26
+NormalZombie Zombie 0 0 22
+NormalZombie ZombieAttack 0 1 21
+NormalZombie ZombieLostHead 0 2 18
+NormalZombie ZombieLostHeadAttack 0 3 11
+BucketheadZombie BucketheadZombie 1 0 15
+BucketheadZombie BucketheadZombieAttack 1 1 11
+NormalZombie Zombie 1 2 22
+NormalZombie ZombieAttack 1 3 21
+NormalZombie ZombieLostHead 1 4 18
+NormalZombie ZombieLostHeadAttack 1 5 11
+ConeheadZombie ConeheadZombie 2 0 21
+ConeheadZombie ConeheadZombieAttack 2 1 11
+NormalZombie Zombie 2 2 22
+NormalZombie ZombieAttack 2 3 21
+NormalZombie ZombieLostHead 2 4 18
+NormalZombie ZombieLostHeadAttack 2 5 11
+FlagZombie FlagZombie 3 0 12
+FlagZombie FlagZombieAttack 3 1 11
+FlagZombie FlagZombieLostHead 3 2 12 
+FlagZombie FlagZombieLostHeadAttack 3 3 11
+NewspaperZombie NewspaperZombie 4 0 19
+NewspaperZombie NewspaperZombieAttack 4 1 8
+NewspaperZombie NewspaperZombieNoPaper 4 2 14
+NewspaperZombie NewspaperZombieNoPaperAttack 4 3 7
+NewspaperZombie NewspaperZombieLostHead 4 4 16
+NewspaperZombie NewspaperZombieLostHeadAttack 4 5 7
